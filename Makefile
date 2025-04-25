@@ -1,2 +1,2 @@
 setup:
-	ansible-playbook -i inventory stage-1/playbook.yml
+	ansible-playbook -i inventory.ini stage-1/playbook.yml
